@@ -13,7 +13,7 @@ most users (except for flash size in the generic ESP8266 board).
 
 Note about PlatformIO
 ---------------------
-
+--
 `PlatformIO specific documentation
 <https://docs.platformio.org/en/latest/platforms/espressif8266.html#espressif-8266>`__
 is also available.  Note that this link is available here for reference and
